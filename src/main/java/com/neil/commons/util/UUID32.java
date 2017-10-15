@@ -14,5 +14,5 @@ public class UUID32 {
         return UUID.randomUUID().toString().replaceAll("-", "");
     }
 
-    
+
 }
